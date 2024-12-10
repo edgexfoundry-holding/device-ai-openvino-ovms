@@ -1,0 +1,17 @@
+deviceList:
+  - name: Simple-OpenVINO-Device
+    profileName: OpenVINO-Device
+    description: Example of OpenVINO Device
+    labels: [AI]
+    protocols:
+      ovms:
+        Host: 192.168.198.233
+        Port: 9000
+        Model: ssd
+        Version: 1
+        # Uri: car-detection.mp4
+        # Uri: person-bike-car-detection.mp4
+        Uri: rtsp://admin:a12345678@192.168.123.23:554/Streaming/Channels/102?transportmode=unicast&profile=Profile_2
+        Snapshot: "false"
+        Record: "false"
+        Score: 0.4
