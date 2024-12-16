@@ -14,5 +14,5 @@ updates:
         # Included when device-sdk-go is updated
       - dependency-name: "github.com/edgexfoundry/go-mod-secrets/v4"
         # Included when device-sdk-go is updated
-      - dependency-name: "github.com/edgexfoundry/go-mod-bootstrap/v4"
+      - dependency-name: "github.com/edgexfoundry/go-mod-bootstrap/*"
         # Included when device-sdk-go is updated
