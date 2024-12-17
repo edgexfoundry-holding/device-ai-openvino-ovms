@@ -9,7 +9,7 @@ require (
 	github.com/yiqisoft/mjpeg v0.0.1
 	gocv.io/x/gocv v0.39.0
 	google.golang.org/grpc v1.69.0
-	google.golang.org/protobuf v1.35.2
+	google.golang.org/protobuf v1.36.0
 )
 
 require (
