@@ -5,7 +5,7 @@ go 1.23.4
 require (
 	github.com/edgexfoundry/device-sdk-go/v4 v4.0.0
 	github.com/edgexfoundry/go-mod-core-contracts/v4 v4.0.1
-	github.com/spf13/cast v1.7.1
+	github.com/spf13/cast v1.8.0
 	github.com/yiqisoft/mjpeg v0.0.1
 	gocv.io/x/gocv v0.41.0
 	google.golang.org/grpc v1.72.0
