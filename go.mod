@@ -8,7 +8,7 @@ require (
 	github.com/spf13/cast v1.8.0
 	github.com/yiqisoft/mjpeg v0.0.1
 	gocv.io/x/gocv v0.41.0
-	google.golang.org/grpc v1.72.0
+	google.golang.org/grpc v1.72.2
 	google.golang.org/protobuf v1.36.6
 )
 
