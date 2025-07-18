@@ -215,6 +215,8 @@ The link format is: http://[hostname]:18080/[device-name].mjpeg, such as http://
 
 - Video:
 
+![result gif](./docs/output.gif)
+
 [Inference Reuslt Video Clip](./docs/output.mp4)
 
 ## Reference
