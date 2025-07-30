@@ -7,7 +7,7 @@ require (
 	github.com/edgexfoundry/go-mod-core-contracts/v4 v4.0.1
 	github.com/spf13/cast v1.9.2
 	github.com/yiqisoft/mjpeg v0.0.1
-	gocv.io/x/gocv v0.41.0
+	gocv.io/x/gocv v0.42.0
 	google.golang.org/grpc v1.74.2
 	google.golang.org/protobuf v1.36.6
 )
